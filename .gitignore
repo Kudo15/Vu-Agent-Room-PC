@@ -1,0 +1,11 @@
+data/
+__pycache__/
+*.pyc
+.test-tmp/
+.env
+.env.*
+!.env.example
+*.log
+# External checkout and local helper, outside the Agent Room source release.
+docker-mailserver/
+Proxy from VPN/
